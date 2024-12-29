@@ -1,3 +1,3 @@
 # Just a fun Scrimba JS project
 
-Link: 
+Link: https://dainty-chebakia-4bda47.netlify.app/
