@@ -1,0 +1,55 @@
+body {
+    background-image: url("workout.png");
+    background-size: cover;
+    font-family: 'Helvetica Neue', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', ;
+    font-weight: bold;
+    text-align: center;
+    color: teal;
+    height: 100vh;
+}
+
+.container {
+    background: rgba(255,255,255,0.5);;
+    max-width: 100%;
+    max-height: 100%;
+    height: 100vh;
+    margin: auto;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: beige;
+    color: teal;
+    width: 200px;
+    white-space: normal;
+    word-wrap: break-word;      
+}
+
+#save-btn {
+    background: teal;
+    color: beige;
+}
+
