@@ -1,3 +1,3 @@
-#Just a fun Scrimba JS project
+# Just a fun Scrimba JS project
 
 Link: 
